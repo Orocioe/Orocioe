@@ -37,17 +37,17 @@
 </p>
 
 
-- 🔭 I’m currently working on **Un gran programa**
+- 🔭 I’m currently working on **Mejorar mi perfil de Github**
 
-- 🌱 I’m currently learning **Mas variedad de cosas**
+- 🌱 I’m currently learning **A darme a conocer en mi programacion de GitHub y Visual**
 
-- 👯 I’m looking to collaborate on **la programacion con edna**
+- 👯 I’m looking to collaborate on **programacion de Github y Visual con edna**
 
-- 🤝 I’m looking for help with **Mi programa**
+- 🤝 I’m looking for help with **Buscar Colaboradores para programas**
 
-- 👨‍💻 All of my projects are available at [Internet](Internet)
+- 👨‍💻 All of my projects are available at [https://github.com/Orocioe](Internet)
 
-- 📝 I regularly write articles on [Mi](Mi)
+- 📝 I regularly write articles on [https://github.com/Orocioe](Mi)
 
 - 💬 Ask me about **mi, me gusta hablar de mi**
 
@@ -55,7 +55,7 @@
 
 - 📄 Know about my experiences [Sobre programacion](Sobre programacion)
 
-- ⚡ Fun fact **Soy muy pro**
+- ⚡ Fun fact **Me desarrollo muy bien en mi area**
 
 
 <h3 align="left">Languages and Tools:</h3>
